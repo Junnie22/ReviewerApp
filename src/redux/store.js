@@ -8,7 +8,6 @@ import {
 import thunk from "redux-thunk";
 import uiReducer from "./reducers/uiReducer";
 
-
 //reducers
 const initialState = {};
 const middleware = [thunk];
